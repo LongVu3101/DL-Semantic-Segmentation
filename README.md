@@ -22,3 +22,4 @@
 <code>python infer.py --image_path image.jpeg
 </code>
 </pre>
+&nbsp;&nbsp;&nbsp;&nbsp; For some reason it may have the cv2 not found error.
